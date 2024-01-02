@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GasperBizjan - Student Assistant @ University of Ljubljana // Research in dynamics and mechanics of additive manufacturing technologies
-- 👀 I’m interested in G-code for 3D printers, Python, FEM coding, and more.
+- 👋 Hi, I’m @GasperBizjan - a Mechanical Engineer
+- 👀 I’m interested in CAD Design, 3D printers, Python, FEM coding, and more.
 - 🌱 I’m currently learning better Python programming!
-- 💞️ I’m looking to collaborate on projects that require Mechanical Engineering know how.
+- 💞️ I’m looking to collaborate on projects that require Mechanical Engineering know-how.
 - 📫 You can reach me on my LinkedIn! https://www.linkedin.com/in/gasperbizjan/
 
 <!---
